@@ -17,7 +17,7 @@
 
   <!-- Анимированный текст -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+QA+Engineer+🚀;From+Kazan%2C+Russia+🏡" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&width=500&lines=Fullstack+QA+Engineer+🚀" alt="Typing animation"/>
   </div>
 </div>
 
