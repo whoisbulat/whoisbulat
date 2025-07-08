@@ -17,8 +17,7 @@
 
   <!-- Анимированный текст -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=500&color=00FFAB&center=true&width=600&lines=🚀+функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов" alt="Typing animation"/>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&width=600&lines=🚀+Функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile+приложений;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов+и+метрик" alt="Typing animation"/>
 </div>
 
 ## 🛠 Tech Stack
