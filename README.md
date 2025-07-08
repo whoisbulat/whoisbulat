@@ -17,43 +17,46 @@
 
   <!-- Анимированный текст -->
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=600&lines=🚀+Функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов+и+метрик" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=600&lines=🚀+Функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов+и+метрик" alt="Typing animation"/>
+  </div>
 </div>
 
-## 🛠 Tech Stack
+<div align="left">
+  ## 🛠 Tech Stack
 
-### 🐍 Python Ecosystem
-- 🐍 Python (Pytest, Selenium, Flask)
-- 🤖 Automated Testing Frameworks
-- 🔌 REST/GraphQL API Testing
+  ### 🐍 Python Ecosystem
+  - 🐍 Python (Pytest, Selenium, Flask)
+  - 🤖 Automated Testing Frameworks
+  - 🔌 REST/GraphQL API Testing
 
-### 🔍 Testing Tools
-- 📊 Allure TestOps
-- 📱 Postman/Altair
-- 🔎 Charles Proxy
-- 🔥 Firebase Testing Tools
+  ### 🔍 Testing Tools
+  - 📊 Allure TestOps
+  - 📱 Postman/Altair
+  - 🔎 Charles Proxy
+  - 🔥 Firebase Testing Tools
 
-### 🗄 Databases
-- 🐘 PostgreSQL
-- 🧠 Redis
-- ✉️ Kafka (Message Broker)
+  ### 🗄 Databases
+  - 🐘 PostgreSQL
+  - 🧠 Redis
+  - ✉️ Kafka (Message Broker)
 
-### 🚀 DevOps & CI/CD
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔄 GitLab CI/CD
-- 🔀 Git Version Control
+  ### 🚀 DevOps & CI/CD
+  - 🐳 Docker
+  - ☸️ Kubernetes
+  - 🔄 GitLab CI/CD
+  - 🔀 Git Version Control
 
-### 📈 Monitoring & Analytics
-- 📉 Grafana
-- 🚨 Sentry
-- 📝 Kibana
+  ### 📈 Monitoring & Analytics
+  - 📉 Grafana
+  - 🚨 Sentry
+  - 📝 Kibana
 
-## 🧪 QA Expertise
-- 🔄 Full-cycle Testing (Requirements to Automation)
-- 🌐 Web/API/Mobile Testing
-- 📑 Test Documentation
-- 🔁 Regression & Smoke Testing
-- ⚡ Performance Testing
-- 🎯 QA Process Optimization
+  ## 🧪 QA Expertise
+  - 🔄 Full-cycle Testing (Requirements to Automation)
+  - 🌐 Web/API/Mobile Testing
+  - 📑 Test Documentation
+  - 🔁 Regression & Smoke Testing
+  - ⚡ Performance Testing
+  - 🎯 QA Process Optimization
+</div>
 
