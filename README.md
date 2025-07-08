@@ -17,7 +17,7 @@
 
   <!-- Анимированный текст -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=500&color=00FFAB&center=true&width=600&lines=🚀+Эксперт+по+полному+циклу+тестирования;🔍+WEB+%7C+API+%7C+Mobile+тестирование;🤖+Автоматизация+на+Python+и+Pytest;📊+Оптимизация+QA+процессов" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=500&color=00FFAB&center=true&width=600&lines=🚀+функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов" alt="Typing animation"/>
   </div>
 </div>
 
