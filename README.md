@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h3NXlmb2prbXZpNWh2eXZ0dzExb3lwZTdlMDQybTFsdnJocmNvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YwG50u0cPiz3XBI61O/giphy.gif" width="40%" alt="Pixel art banner"/>
   
   <!-- Заголовок -->
-  <h1 style="font-size: 2.5rem; margin: 20px 0;">𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐁𝐮𝐥𝐚𝐭 𝐈𝐛𝐫𝐚𝐠𝐢𝐦𝐨𝐯 👨‍💻</h1>
+  <h1 style="font-size: 2.5rem; margin: 20px 0;">Привет, Я QA Engineer 👨‍💻</h1>
   
   <!-- Контакты -->
   <div align="center" style="margin: 20px 0;">
