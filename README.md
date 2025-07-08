@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Анимированный пиксель-арт баннер -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl3MGJiNTNudTZpbWoyYnRvMXp0NDZ2aGxtN25maTBqOTdiZzJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBKbliMXvSsv2Qo/giphy.gif" width="100%" alt="Pixel art banner"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDl3MGJiNTNudTZpbWoyYnRvMXp0NDZ2aGxtN25maTBqOTdiZzJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBKbliMXvSsv2Qo/giphy.gif" width="50%" alt="Pixel art banner"/>
   
   <!-- Заголовок с анимацией печатающегося текста -->
   <h1 style="font-size: 2.5rem; margin: 20px 0;">𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐁𝐮𝐥𝐚𝐭 𝐈𝐛𝐫𝐚𝐠𝐢𝐦𝐨𝐯</h1>
