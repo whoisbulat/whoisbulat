@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajZycmVzNGtsOGRobGVvcXk0M211bnVzY2c0ang1cWxhMDZlajNzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bnOIY81AEMa4llyfFI/giphy.gif" width="40%" alt="Pixel art banner"/>
   
   <!-- Заголовок -->
-  <h1 style="font-size: 2.5rem; margin: 20px 0;">Привет, Я QA Engineer 👨‍💻</h1>
+  <h1 style="font-size: 2.5rem; margin: 20px 0;">Привет, Я QA Engineer </h1>
   
   <!-- Контакты -->
   <div align="center" style="margin: 20px 0;">
@@ -22,36 +22,36 @@
 </div>
 
 <div align="left">
-  ## 🛠 Tech Stack
+  ## Tech Stack
 
-  ### 🐍 Python Ecosystem
+  ### Python Ecosystem
   - 🐍 Python (Pytest, Selenium, Flask)
   - 🤖 Automated Testing Frameworks
   - 🔌 REST/GraphQL API Testing
 
-  ### 🔍 Testing Tools
+  ### Testing Tools
   - 📊 Allure TestOps
   - 📱 Postman/Altair
   - 🔎 Charles Proxy
   - 🔥 Firebase Testing Tools
 
-  ### 🗄 Databases
+  ### Databases
   - 🐘 PostgreSQL
   - 🧠 Redis
   - ✉️ Kafka (Message Broker)
 
-  ### 🚀 DevOps & CI/CD
+  ### DevOps & CI/CD
   - 🐳 Docker
   - ☸️ Kubernetes
   - 🔄 GitLab CI/CD
   - 🔀 Git Version Control
 
-  ### 📈 Monitoring & Analytics
+  ### Monitoring & Analytics
   - 📉 Grafana
   - 🚨 Sentry
   - 📝 Kibana
 
-  ## 🧪 QA Expertise
+  ## QA Expertise
   - 🔄 Full-cycle Testing (Requirements to Automation)
   - 🌐 Web/API/Mobile Testing
   - 📑 Test Documentation
