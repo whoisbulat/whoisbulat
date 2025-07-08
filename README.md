@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Анимированный баннер -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRvbjFsMDI4a3hqNGZhMmVlamt6MzA1dGNwend4aDZhZDUyYW1ibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUNGZizFnTOpyDijCL/giphy.gif" width="40%" alt="Pixel art banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm50YWRwMWRkdHFqMGFqYTE1aTF4Z3BjeGZ1MjlibGFvanNnbzV2MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fUNGZizFnTOpyDijCL/giphy.gif" width="40%" alt="Pixel art banner"/>
   
   <!-- Заголовок -->
   <h1 style="font-size: 2.5rem; margin: 20px 0;">Привет, Я QA Engineer 👨‍💻</h1>
