@@ -36,7 +36,7 @@
   - 🔌 GraphQL
   - 🛠️ Swagger
   - 🔍 Charles Proxy/Fiddler
-  - 🗄️ DBeaver/TablePlus (Database testing)
+  - 🗄️ DBeaver/pgAdmin (Database testing)
   - 📝 TestRail/Qase/Allure TestOps (Test case management)
   - 🔥 Firebase Testing Tools
 
