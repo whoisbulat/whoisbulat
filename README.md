@@ -55,9 +55,9 @@
   - 🔄 GitHub Actions/GitLab CI 
   - 📊 Allure Report/ReportPortal 
 
-  ## 🔍 QA Expertise
+  ##  QA Expertise
   - 🔄 End-to-end testing (UI + API integration)
   - 🧪 Regression and smoke testing suites
   - 📑 Test documentation and bug reporting
-  - ⚡ Performance testing (Locust/JMeter)
+  - ⚡ Performance testing
 </div>
