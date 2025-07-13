@@ -23,12 +23,12 @@
 
 <div align="left">
 
-  ### UI Test Automation
+  ### UI Automation
   - 🤖 Selenium WebDriver 
   - 🎭 Playwright
   - 📦 Pytest + Allure (Test framework and reporting)
 
-  ### API Test Automation
+  ### API Automation
   - 🐍 Python + Requests/HTTPX (REST API testing)
 
   ## Manual Testing
