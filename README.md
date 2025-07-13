@@ -30,6 +30,7 @@
 
   ### API automation
   - 🐍 Python + Requests/HTTPX (REST API testing)
+  - Pydantic
 
   ## Manual Testing
   - 📡 Postman
