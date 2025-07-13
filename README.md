@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFka2h0dDcweXlpMTJnc2Jqa2R2aWsydnF5d2dwOGZza29lZzc2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfU11ODanloCA/giphy.gif" width="40%" alt="Pixel art banner"/>
   
   <!-- Заголовок -->
-  <h1 style="font-size: 2.5rem; margin: 20px 0;">Привет, Я QA Engineer </h1>
+  <h1 style="font-size: 2.5rem; margin: 20px 0;">QA Automation Engineer</h1>
   
   <!-- Контакты -->
   <div align="center" style="margin: 20px 0;">
@@ -17,46 +17,47 @@
 
   <!-- Анимированный текст -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=600&lines=🚀+Функциональное+и+автоматизированное+тестирование;🔍+WEB+%7C+API+%7C+Mobile;🤖+Стэк:+Python+Pytest+Request+Selenium+Playwright;📊+Оптимизация+QA+процессов+и+метрик" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=600&lines=🚀+Автоматизированное+и+ручное+тестирование;🔍+WEB+UI+%7C+API+%7C+Mobile+Applications;🤖+Tech+Stack:+Python%2C+Playwright%2C+Postman%2C+Allure;📊+Оптимизация+тестовых+процессов+и+метрик" alt="Typing animation"/>
   </div>
 </div>
 
 <div align="left">
-  ## Tech Stack
 
-  ### Python Ecosystem
-  - 🐍 Python (Pytest, Selenium, Flask)
-  - 🤖 Automated Testing Frameworks
-  - 🔌 REST/GraphQL API Testing
+  ### UI Test Automation
+  - 🤖 Selenium WebDriver 
+  - 🎭 Playwright
+  - 📦 Pytest + Allure (Test framework and reporting)
 
-  ### Testing Tools
-  - 📊 Allure TestOps
-  - 📱 Postman/Altair
-  - 🔎 Charles Proxy
+  ### API Test Automation
+  - 🐍 Python + Requests/HTTPX (REST API testing)
+
+  ## Manual Testing
+  - 📡 Postman
+  - 🔌 GraphQL
+  - 🛠️ Swagger
+  - 🔍 Charles Proxy/Fiddler
+  - 🗄️ DBeaver/TablePlus (Database testing)
+  - 📝 TestRail/Qase/Allure TestOps (Test case management)
   - 🔥 Firebase Testing Tools
 
-  ### Databases
-  - 🐘 PostgreSQL
+  ## Databases & Middleware
+  - 🐘 PostgreSQL/MySQL
   - 🧠 Redis
-  - ✉️ Kafka (Message Broker)
+  - ✉️ Kafka
 
-  ### DevOps & CI/CD
-  - 🐳 Docker
-  - ☸️ Kubernetes
-  - 🔄 GitLab CI/CD
-  - 🔀 Git Version Control
-
-  ### Monitoring & Analytics
+  ## Monitoring & Analytics
   - 📉 Grafana
   - 🚨 Sentry
   - 📝 Kibana
 
-  ## QA Expertise
-  - 🔄 Full-cycle Testing (Requirements to Automation)
-  - 🌐 Web/API/Mobile Testing
-  - 📑 Test Documentation
-  - 🔁 Regression & Smoke Testing
-  - ⚡ Performance Testing
-  - 🎯 QA Process Optimization
-</div>
+  ## DevOps & CI/CD
+  - 🐳 Docker/Kubernetes
+  - 🔄 GitHub Actions/GitLab CI 
+  - 📊 Allure Report/ReportPortal 
 
+  ## 🔍 QA Expertise
+  - 🔄 End-to-end testing (UI + API integration)
+  - 🧪 Regression and smoke testing suites
+  - 📑 Test documentation and bug reporting
+  - ⚡ Performance testing (Locust/JMeter)
+</div>
