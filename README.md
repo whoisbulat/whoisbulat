@@ -53,7 +53,6 @@
   ## DevOps & CI/CD
   - 🐳 Docker/Kubernetes
   - 🔄 GitHub Actions/GitLab CI 
-  - 📊 Allure Report/ReportPortal 
 
   ##  QA Expertise
   - 🔄 End-to-end testing (UI + API integration)
