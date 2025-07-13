@@ -37,7 +37,7 @@
   - 🛠️ Swagger
   - 🔍 Charles Proxy/Fiddler
   - 🗄️ DBeaver/pgAdmin (Database testing)
-  - 📝 TestRail/Qase/Allure TestOps (Test case management)
+  - 📝 TestRail/Zephyr Scale/Allure TestOps (Test case management)
   - 🔥 Firebase Testing Tools
 
   ## Databases & Middleware
