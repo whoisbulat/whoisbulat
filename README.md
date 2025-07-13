@@ -34,8 +34,8 @@
   - 🧩 Pydantic (Schema validation and data modeling)
 
   ## Manual Testing
-  - 📡 Postman
-  - 🔌 GraphQL
+  - 📡 Postman/Altair
+  - 🔌 testing: Rest API/GraphQL/gRPC 
   - 🛠️ Swagger
   - 🔍 Charles Proxy/Fiddler
   - 🗄️ DBeaver/pgAdmin (Database testing)
