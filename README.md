@@ -29,8 +29,9 @@
   - 📦 Pytest + Allure (Test framework and reporting)
 
   ### API automation
-  - 🐍 Python + Requests/HTTPX (REST API testing)
-  - Pydantic
+  - 🐍 Python + Pytest 
+  - 📦 Requests/HTTPX (HTTP clients for sync/async tests)
+  - 🧩 Pydantic (Schema validation and data modeling)
 
   ## Manual Testing
   - 📡 Postman
